@@ -1,0 +1,1 @@
+# supabase-nuxt-directus-boilerplate
